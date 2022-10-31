@@ -1,6 +1,6 @@
 # Jubilee Austen
 ## First Static Site made in Skillcrush classes.
-### View the [live project here.](https://kirstendarling.github.io/jubilee-austen-aka-first-static-website/)
+### View the [live project here.](https://kirstendarling.github.io/Jubilee-Austen-Site/)
 
 ### Screenshot
 
